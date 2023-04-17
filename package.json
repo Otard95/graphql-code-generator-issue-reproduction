@@ -7,7 +7,8 @@
     "node": ">=14.16.0"
   },
   "scripts": {
-    "test": "tsc --noEmit"
+    "types:generate": "graphql-codegen",
+    "test": "tsc --noEmit generated.ts"
   },
   "repository": {
     "type": "git",
