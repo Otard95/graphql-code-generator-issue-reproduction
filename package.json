@@ -1,0 +1,19 @@
+{
+  "name": "graphql-code-generator-issue-reproduction",
+  "version": "1.0.0",
+  "description": "Reproducing #9100",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otard95/graphql-code-generator-issue-reproduction.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Otard95/graphql-code-generator-issue-reproduction/issues"
+  },
+  "homepage": "https://github.com/Otard95/graphql-code-generator-issue-reproduction#readme"
+}
