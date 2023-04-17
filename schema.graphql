@@ -1,0 +1,8 @@
+enum MyGraphQLEnum {
+  A
+  B
+}
+
+type Query {
+  test: MyGraphQLEnum
+}
