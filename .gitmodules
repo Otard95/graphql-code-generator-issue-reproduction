@@ -1,0 +1,3 @@
+[submodule "graphql-code-generator"]
+	path = graphql-code-generator
+	url = git@github.com:Otard95/graphql-code-generator.git
