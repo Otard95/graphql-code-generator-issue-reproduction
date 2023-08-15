@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/Otard95/graphql-code-generator-issue-reproduction#readme",
   "devDependencies": {
-    "@graphql-codegen/cli": "3.3.0",
-    "@graphql-codegen/typescript": "3.0.3",
-    "@graphql-codegen/typescript-resolvers": "3.2.0",
+    "@graphql-codegen/cli": "5.0.0",
+    "@graphql-codegen/typescript": "4.0.1",
+    "@graphql-codegen/typescript-resolvers": "4.0.1",
     "typescript": "5.0.4"
   }
 }
